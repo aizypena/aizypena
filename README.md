@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aizypena
-- 👀 I’m interested in ... WEBSITE DEVELOPMENT
-- 🌱 I’m currently learning ... HTML CSS and JavaScript
+- 👀 I’m interested in ... WEBSITE DEVELOPMENT, CLOUD, MOBILE DEVELOPMENT
+- 🌱 I’m currently learning ... NEXT JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jbpena101@gmail.com
 
