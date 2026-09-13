@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @aizypena
-- 👀 I’m interested in ... WEBSITE DEVELOPMENT, CLOUD, MOBILE DEVELOPMENT
-- 🌱 I’m currently learning ... NEXT JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... jbpena101@gmail.com
+# ⚡ Hello World, I'm @aizypena
 
-<!---
-aizypena/aizypena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```json
+{
+  "interests": ["Web Development", "Cloud Architecture", "Mobile Development"],
+  "currently_learning": ["Next.js 🔥", "AI Integration & Machine Learning 🤖"],
+  "status": "Building the future, one deploy at a time."
+}
+```
+
+---
+
+### 🌌 The Journey So Far
+I thrive at the intersection of fast web ecosystems, scalable cloud infrastructure, and seamless mobile design. Right now, I'm shifting into a higher gear by merging modern web frameworks with intelligent tech.
+
+*   🌱 **Deep Diving:** Mastering **Next.js** to build ultra-fast, server-rendered applications.
+*   🧠 **Brain-Boosting:** Exploring **Artificial Intelligence** to build smarter, context-aware applications.
+*   🚀 **Mission:** Bridging the gap between standard code and the automated future.
+
+---
+
+### 🤝 Let's Build Something Cool
+I'm looking to collaborate on open-source projects, Next.js templates, or AI-driven mini-apps. 
+
+*   📫 **Ping Me:** [jbpena101@gmail.com](mailto:jbpena101@gmail.com)
